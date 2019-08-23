@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paises e Comidas</string>
+    <string name="countryTextView">Brasil</string>
+    <string name="foodTextView">Feijoada</string>
+    <string name="bandeiraTalk">Brasil</string>
+    <string name="comidaTalk">Feijoada</string>
+</resources>

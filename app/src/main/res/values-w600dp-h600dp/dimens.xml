@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bandeira">300dp</dimen>
+    <dimen name="comida">300dp</dimen>
+    <dimen name="countryTextView">60sp</dimen>
+    <dimen name="foodTextViewTitle">60sp</dimen>
+</resources>

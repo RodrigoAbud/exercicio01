@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/paisTextView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/countryTextViewTitle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/countryTextView"
+        android:textColor="@android:color/tertiary_text_light"
+        android:textSize="@dimen/countryTextView" />
+
+    <ImageView
+        android:id="@+id/flagImageView"
+        android:layout_width="@dimen/bandeira"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="2"
+        android:contentDescription="@string/bandeiraTalk"
+        android:src="@drawable/bandeira"
+        app:srcCompat="@drawable/bandeira"
+        tools:src="@drawable/bandeira" />
+
+    <ImageView
+        android:id="@+id/foodImageView"
+        android:layout_width="@dimen/comida"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="2"
+        android:src="@drawable/comida"
+        app:srcCompat="@drawable/comida"
+        tools:src="@drawable/comida"
+        android:contentDescription="@string/comidaTalk" />
+
+    <TextView
+        android:id="@+id/foodTextViewTitle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+
+        android:text="@string/foodTextView"
+        android:textColor="@android:color/tertiary_text_light"
+        android:textSize="@dimen/foodTextViewTitle" />
+
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">البلدان والأغذية</string>
+    <string name="countryTextView">المملكة العربية السعودية</string>
+    <string name="foodTextView">تورم القدمين</string>
+    <string name="bandeiraTalk">المملكة العربية السعودية</string>
+    <string name="comidaTalk">تورم القدمين</string>
+</resources>

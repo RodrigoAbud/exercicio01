@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Länder und Lebensmittel</string>
+    <string name="countryTextView">Deutschland</string>
+    <string name="foodTextView">Sauerkraut</string>
+    <string name="bandeiraTalk">Deutschland</string>
+    <string name="comidaTalk">Sauerkraut</string>
+</resources>

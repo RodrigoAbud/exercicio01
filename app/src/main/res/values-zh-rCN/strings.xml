@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">國家和食品</string>
+    <string name="foodTextView">宮保雞丁</string>
+    <string name="countryTextView">中国</string>
+    <string name="bandeiraTalk">中国</string>
+    <string name="comidaTalk">宮保雞丁</string>
+</resources>

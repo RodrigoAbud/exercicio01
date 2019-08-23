@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Χώρες και τρόφιμα</string>
+    <string name="foodTextView">Ελληνική μπάρμπεκιου</string>
+    <string name="countryTextView">Ελλάδα</string>
+    <string name="bandeiraTalk">Ελλάδα</string>
+    <string name="comidaTalk">Ελληνική μπάρμπεκιου</string>
+</resources>
